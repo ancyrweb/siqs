@@ -1,0 +1,15 @@
+{
+  "name": "siqs",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "testem"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "browserify": "^16.2.3",
+    "mocha": "^5.2.0",
+    "testem": "^2.14.0"
+  }
+}
